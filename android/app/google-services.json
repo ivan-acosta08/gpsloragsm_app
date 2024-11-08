@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "173096097905",
+    "project_id": "gpsloragsm-1943f",
+    "storage_bucket": "gpsloragsm-1943f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173096097905:android:c0a91c9add7c5eb063e3d0",
+        "android_client_info": {
+          "package_name": "com.ivanacosta.gpsloragsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173096097905-dpcuchi222emn510l64sk4hnd5qgjkst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivanacosta.gpsloragsm",
+            "certificate_hash": "43471d483e005282811c0da1b8c18ee45afc51e5"
+          }
+        },
+        {
+          "client_id": "173096097905-85alnu820nb5l8ekftiqg50eoqsri7a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC72qSC5PkT8rbufuoYeiyl5qwcrRh0JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173096097905-85alnu820nb5l8ekftiqg50eoqsri7a6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173096097905-65iov4mj4tcjd58dmqoopic7g9o6lqng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gpsloragsmApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
