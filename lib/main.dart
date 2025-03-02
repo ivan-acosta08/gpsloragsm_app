@@ -18,13 +18,13 @@ Future<void> main() async {
         ChangeNotifierProvider(create: (_) => ThemeModel()),
         ChangeNotifierProvider(create: (_) => AuthModel()),
       ],
-      child: MyApp(),
+      child: const GPSLoRaGSM(),
     ),
   );
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class GPSLoRaGSM extends StatelessWidget {
+  const GPSLoRaGSM({super.key});
 
   @override
   Widget build(BuildContext context) {
